@@ -1,0 +1,15 @@
+This is just a list of my public keys.
+
+yubikey.gpg:
+  - used for code signing
+  - expiring soon
+  - please don't use this anymore
+
+offline-master-key.gpg:
+  - used for signing other keys
+  - don't send me messages encrypted with this
+  - is only accessed offline, kept on 2 encrypted flash drives
+
+GPG-smart-card.gpg:
+  - a GnuPG smart card
+  - used for code signing, email decryption, and ssh authentication
